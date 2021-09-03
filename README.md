@@ -1,7 +1,7 @@
 # Proyecto ToM: Tomatoes Monitor
 <img src="https://github.com/rrequeena/ToM/blob/main/ToM-logo2.jpg?raw=true"
      alt="Markdown Monster icon"
-     style="width: 2px !important;" />
+     style="width: 1000px !important;" />
      
 Un proyecto que nace en la comunidad de Saturdays.AI Quito como parte del evento realizado en el año 2021. El cual consiste en crear un monitor de la etápa de madurez en los tomates utilizando visión artificial y transfer learning. 
 
