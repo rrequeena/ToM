@@ -10,6 +10,8 @@ Se utilizó la API de object detection de Tensorflow, haciendo uso de esta se di
 Para desarrollar el proyecto se utilizó una base de datos libre en mendeley la cual contiene más de 1000 imágenes en alta resolución sobre tomates en su etápa de flor, verde y en su etapa de madurez más alta que es cuando se tornan a su color rojizo característico. La base de datos se puede encontrar en el siguiente [link](https://data.mendeley.com/datasets/9zyvdgp83m/1)
 
 ## Video Demostración
+El video a continuación muestra el resultado del modelo ya entrenada, y la aplicación está disponible para hacer las pruebas en el siguiente URL: https://share.streamlit.io/rrequeena/tom-base-app/app.py
+
 https://user-images.githubusercontent.com/64110737/141595508-73fe9d9f-d17b-420f-b4ed-16f545d3ccbe.mp4
 
 ## Archivos en el repositorio
