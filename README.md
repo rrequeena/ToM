@@ -23,3 +23,6 @@ En este notebook se encuentra el código utilizado para el entramiento del model
 ### Adicionales
 Adicionalmente también se encuentra el archivo utilizado para la presentación del DemoDay.
 
+### Nota:
+Hoy en día se pueden entrenar modelos con tensorflow y utilizarlos en [microcontroladores](https://microcontroladoress.com) de bajo consumo, con lo cual se puede crear proyectos cómo el del repositorio e implementarlos en estos dispositivos.
+
